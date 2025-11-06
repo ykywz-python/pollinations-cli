@@ -14,3 +14,4 @@ ffmpeg/ffmpeg.exe
 *.txt
 *.spec
 version.py
+*.log
