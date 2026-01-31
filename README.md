@@ -51,6 +51,3 @@ ikuti intruksi ini untuk mengkompilasinya menjadi executable:
 
 Anda dapat mengunduh executable: [mediafire](https://www.mediafire.com/file/ukkhar7uyiohk4n/polli-cli.zip/file).
 
-## Beri Dukungan
-
-[![Buka Halaman Donasi](https://irfanykywz.github.io/donate/donate.png)](https://irfanykywz.github.io/donate/)
